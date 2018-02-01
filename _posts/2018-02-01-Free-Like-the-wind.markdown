@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Free Like the Wind"
-subtitle:   " \"\""
+subtitle:   "像风一样自由"
 date:       2018-02-01 14:40:00
 author:     "风语"
 header-img: "img/freeWind.jpg"
