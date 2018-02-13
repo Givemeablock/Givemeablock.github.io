@@ -24,4 +24,4 @@ Where the life is going?
 It's about the time.
 
 
-![boat](img/boat.jpg)
+![boat](https://givemeablock.github.io/img/boat.jpg)
