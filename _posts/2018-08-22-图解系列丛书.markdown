@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "图解系列丛书"
+subtitle:   "机器学习，HTTP，设计模式"
+date:       2018-08-22 00:00:00
+author:     "风语"
+header-img: "img/shareBook.jpg"
+catalog: true
+tags:
+    - 资料
+---
+
+（该资料仅用于学习交流，禁止商业使用）
+链接:https://pan.baidu.com/s/16HHZ-uvMqKrjssw4ckhtTw  
+密码:fxus
